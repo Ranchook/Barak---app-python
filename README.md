@@ -7,5 +7,6 @@ He uses the date, total and size columns so I remove the x,y,z columns and plot 
 
 He can choose the amount of ticks in the x-axis and its angle of display.
 
+An example for a graph:
 
 ![big data](https://user-images.githubusercontent.com/102590409/224271494-f691dfa3-4f75-4772-ba61-fbfa7e021590.jpg)
